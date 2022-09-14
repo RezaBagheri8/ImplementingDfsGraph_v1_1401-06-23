@@ -1,0 +1,15 @@
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\bin\Debug\net6.0\DfsImplementingWithGraph.exe
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\bin\Debug\net6.0\DfsImplementingWithGraph.deps.json
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\bin\Debug\net6.0\DfsImplementingWithGraph.runtimeconfig.json
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\bin\Debug\net6.0\DfsImplementingWithGraph.dll
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\bin\Debug\net6.0\DfsImplementingWithGraph.pdb
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.csproj.AssemblyReference.cache
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.AssemblyInfoInputs.cache
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.AssemblyInfo.cs
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.csproj.CoreCompileInputs.cache
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.dll
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\refint\DfsImplementingWithGraph.dll
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.pdb
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\DfsImplementingWithGraph.genruntimeconfig.cache
+C:\Users\ALI_BABA\source\repos\DfsImplementingWithGraph\DfsImplementingWithGraph\obj\Debug\net6.0\ref\DfsImplementingWithGraph.dll
